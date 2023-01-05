@@ -8,7 +8,7 @@ This is a project that I worked on with Javascript Mastery's youtube video to em
 - CSS
 
 # Preview
-Click https://irvinnlim.github.io/react-project-gpt3
+Click https://irvinnlim.github.io/react-project-restaurant
 
 # About Me
 I am an aspiring software developer and I aim to continualy hone my programming skills inorder to write programs that bring convenience and joy to the everyday life. My GitHub profile can be accessed via https://github.com/Irvinnlim
